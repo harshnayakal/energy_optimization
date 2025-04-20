@@ -1,0 +1,5 @@
+MachineID,Timestamp,Load(kW),OperationTime(min),EnergyConsumed(kWh)
+M1,2025-04-20 09:00,50,60,5.0
+M2,2025-04-20 10:00,70,45,5.25
+M3,2025-04-20 11:00,65,50,5.1
+...
